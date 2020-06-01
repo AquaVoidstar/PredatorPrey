@@ -1,0 +1,8 @@
+#Ignore all files
+*
+
+#But these
+!.gitignore
+!src/base/Cell.java
+!src/base/LatticeCalc.java
+!src/base/ProjectRunenr.java
