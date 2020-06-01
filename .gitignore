@@ -3,6 +3,6 @@
 
 #But these
 !.gitignore
-!src/base/Cell.java
+!src
 !src/base/LatticeCalc.java
 !src/base/ProjectRunenr.java
